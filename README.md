@@ -8,7 +8,7 @@ Hacker News clone built with [Svelte](https://svelte.dev) and [Sapper](https://s
 Clone the repo...
 
 ```
-git clone git@github.com:sveltejs/hn.svelte.dev.git
+git clone https://github.com/igal-abachi-dev/-test-sapper-svelte-hackernews-.git
 cd hn.svelte.dev
 ```
 
